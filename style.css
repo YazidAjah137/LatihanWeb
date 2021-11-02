@@ -1,0 +1,99 @@
+body {
+    font-size: 15pt;
+}
+
+.judul{
+  text-align: center;
+  color: whitesmoke;
+  font-weight: bold;
+  border: solid 3px darkred;
+  background-color: indianred;
+  border-radius: 20px;
+}
+
+.comp{
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+.player{
+  font-weight: bold;
+  font-family: Helvetica;
+}
+
+.comp-area{
+  border : solid 3px burlywood;
+  border-radius: 20px 20px 10px 10px;
+  background-color: bisque;
+  text-align: center;
+  padding: 0 0 50px 0;
+  margin: 0 0 5px 0;
+}
+
+.player-area{
+  border: solid 3px seagreen;
+  border-radius: 10px 10px 20px 20px;
+  background-color: lightgreen;
+  text-align: center;
+  padding: 20px 0 10px 0;
+  margin-bottom: 10px;
+}
+
+.pil-comp{
+  margin: 2.5px 0 2.5px 120px;
+  background-color: lightgrey;
+  border: solid 3px grey;
+  border-radius: 10px;
+  width: 100px;
+  padding: 3px 0 3px 0;
+}
+
+.️🪨{
+  margin: 2.5px 0 2.5px 120px;
+  background-color: lightgrey;
+  border: solid 3px grey;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px 0 5px 0;
+}
+
+.✂{
+  margin: 2.5px 0 2.5px 120px;
+  background-color: lightgoldenrodyellow;
+  border: solid 3px goldenrod;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px 0 5px 0;
+}
+
+.️🗒{
+  margin: 2.5px 0 2.5px 120px;
+  background-color: moccasin;
+  border: solid 3px sandybrown;
+  border-radius: 10px;
+  width: 100px;
+  padding: 5px 0 5px 0;
+}
+
+.container{
+  border: solid 3px deepskyblue;
+  border-radius: 22px;
+  padding: 20px 5px 20px 5px;
+  background-color: skyblue;
+}
+
+.hasil{
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  height: 20px;
+  bottom: 445px;
+  left: 135px;
+  border: solid 3px darkred;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  padding: 5px 5px 7.5px 5px;
+  font-weight: bold;
+  font-family: Helvetica;
+}
